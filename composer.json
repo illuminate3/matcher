@@ -1,0 +1,20 @@
+{
+    "name": "illuminate3/matcher",
+    "description": "",
+    "authors": [
+        {
+            "name": "Boy Hagemann",
+            "email": "boy@swis.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Illuminate3\\Matcher": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
